@@ -21,8 +21,8 @@ And much more
 
 ### DevOps tools, programming and scripting
 
-- Docker 
-- Jenkins
+- Docker ![Docker](https://github.com/ATwoit/Obsidian_vault_DevOps/blob/main/assets/png-clipart-docker-logo-landscape-tech-companies.png)
+- Jenkins 
 - Zabbix
 - Grafana
 - Python
