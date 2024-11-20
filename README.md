@@ -29,6 +29,19 @@ And much more
 - Bash      ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
+### Используемые технологии:
+
+### Используемые технологии:
+
+<h3 align="center">Используемые технологии</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/@iconify-icons/logos/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@iconify-icons/logos/jenkins.svg" alt="Jenkins" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@iconify-icons/logos/python.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@iconify-icons/logos/bash-icon.svg" alt="Bash" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@iconify-icons/simple-icons/zabbix.svg" alt="Zabbix" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/npm/@iconify-icons/logos/grafana.svg" alt="Grafana" width="50" height="50" />
+</p>
 
 
 
