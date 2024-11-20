@@ -21,9 +21,18 @@ And much more
 
 ### DevOps tools, programming and scripting
 
-- Docker ![Docker](https://github.com/ATwoit/Obsidian_vault_DevOps/blob/main/assets/png-clipart-docker-logo-landscape-tech-companies.png)
-- Jenkins 
-- Zabbix
-- Grafana
-- Python
-- Bash 
+- Docker    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- Jenkins   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+- Zabbix    ![Zabbix](https://img.shields.io/badge/Zabbix-DC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+- Grafana   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+- Python    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- Bash      ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+
+
+
+
+
+
+
+
