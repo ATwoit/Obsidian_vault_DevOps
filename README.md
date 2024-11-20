@@ -28,7 +28,7 @@ And much more
 - Python    
 - Bash      
 
-![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/GitHub_Logo_2018.svg)
+
 
 
 
